@@ -25,10 +25,10 @@ I love making responsive websites and exploring new technologies.
 
 **Languages and Tools:**
 
-<code><img height="20" title="BootStrap" src="./assets/bootstrap.png"></code>
-<code><img height="20" title="JavaScript" src="./assets/javascript.png"></code>
-<code><img height="20" title="React" src="./assets/react.png"></code>
-<code><img height="20" title="NodeJS" src="./assets/nodejs.png"></code>
+<code><img height="20" title="BootStrap" src="https://github.com/thisispratt/thisispratt/blob/master/assets/bootstrap.png"></code>
+<code><img height="20" title="JavaScript" src="https://github.com/thisispratt/thisispratt/blob/master/assets/javascript.png"></code>
+<code><img height="20" title="React" src="https://github.com/thisispratt/thisispratt/blob/master/assets/react.png"></code>
+<code><img height="20" title="NodeJS" src="https://github.com/thisispratt/thisispratt/blob/master/assets/nodejs.png"></code>
 
 ![Prabhat's Github Stats](https://github-readme-stats.vercel.app/api?username=thisispratt&show_icons=true&title_color=0984e3&icon_color=79ff97&text_color=fff&bg_color=151515&hide=["stars"])
 
