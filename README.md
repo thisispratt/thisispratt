@@ -32,3 +32,4 @@ I love making responsive websites and exploring new technologies.
 
 ![Prabhat's Github Stats](https://github-readme-stats.vercel.app/api?username=thisispratt&show_icons=true&title_color=0984e3&icon_color=79ff97&text_color=fff&bg_color=151515&hide=["stars"])
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=thisispratt.thisispratt)
