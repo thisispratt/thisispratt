@@ -29,7 +29,11 @@ I love making responsive websites and exploring new technologies.
 <code><img height="20" title="JavaScript" src="https://github.com/thisispratt/thisispratt/blob/master/assets/javascript.png"></code>
 <code><img height="20" title="React" src="https://github.com/thisispratt/thisispratt/blob/master/assets/react.png"></code>
 <code><img height="20" title="NodeJS" src="https://github.com/thisispratt/thisispratt/blob/master/assets/nodejs.png"></code>
+<!--
+<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thisispratt&title_color=0984e&text_color=fff&bg_color=151515&hide=c++, php" />
+-->
 
-![Prabhat's Github Stats](https://github-readme-stats.vercel.app/api?username=thisispratt&show_icons=true&title_color=0984e3&icon_color=79ff97&text_color=fff&bg_color=151515&hide=["stars"])
+<!--Prabhat's Github Stats -->
+<img src = "https://github-readme-stats.vercel.app/api?username=thisispratt&show_icons=true&title_color=0984e3&icon_color=79ff97&text_color=fff&bg_color=151515&line_height=27&hide=stars" />
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=thisispratt.thisispratt)
