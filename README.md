@@ -18,10 +18,6 @@ Hii, I'm Prabhat, a self-taught frontend web developer. <br />
 I love making responsive websites and exploring new technologies. 
 <br />
 <br />
-- 🌱 I’m currently learning React,Redux and D3.
-- 👯 I’m looking to collaborate on React projects.
-- 💬 Ask me about anything [here](https://twitter.com/thisis_pratt)
-- ⚡ Fun fact: With every passing day, we are getting a new JavaScript framework.
 
 **Languages and Tools:**
 
@@ -36,6 +32,10 @@ I love making responsive websites and exploring new technologies.
 <!--Prabhat's Github Stats -->
 <img src = "https://github-readme-stats.vercel.app/api?username=thisispratt&show_icons=true&title_color=0984e3&icon_color=79ff97&text_color=fff&bg_color=151515&line_height=27&hide=stars" />
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S42C8SU)
+- ⚡ Fun fact: With every passing day, we are getting a new JavaScript framework.
+- 💬 Ask me about anything [here](https://twitter.com/thisis_pratt)
+
+
+<!-- [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S42C8SU) -->
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=thisispratt.thisispratt)
